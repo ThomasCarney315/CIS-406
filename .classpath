@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="gradeConverter/src"/>
+	<classpathentry kind="src" path="interestRateCalculatorPart1/src"/>
+	<classpathentry kind="src" path="orderEntryPhase1/src"/>
+	<classpathentry kind="src" path="orderEntryPhase2/src"/>
+	<classpathentry kind="src" path="orderEntryPhase3/src"/>
+	<classpathentry kind="src" path="studentRegistration/src"/>
+	<classpathentry kind="src" path="temperatureConversion/src"/>
+	<classpathentry kind="src" path="tipCalculator/src"/>
+	<classpathentry kind="src" path="travelTimeConverter/src"/>
+	<classpathentry kind="src" path="vacationDiary1/vacationDiaryPart1/src"/>
+	<classpathentry kind="src" path="vacationDiaryPart1/src"/>
+	<classpathentry kind="output" path="gradeConverter/bin"/>
+</classpath>
